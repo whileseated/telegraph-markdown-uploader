@@ -1,6 +1,6 @@
 # Telegraph Markdown Uploader
 
-Upload Markdown files to Telegraph.
+Upload Markdown files to Telegraph. [Here's an example](https://telegra.ph/This-Is-the-Title-01-20).
 
 ## Installation
 
