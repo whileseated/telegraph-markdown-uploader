@@ -45,4 +45,4 @@ When front-matter is present, the title and author are extracted automatically, 
 ## Files
 
 - `.telegraph_token` - Auto-generated API token (keep private)
-- `log.txt` - Record of published URLs
+- `log.txt` - Record of published URLs (timestamp, URL, title) for use with `--blank`
