@@ -1,5 +1,3 @@
 .telegraph_token
-log.txt
 __pycache__/
 *.pyc
-load/
