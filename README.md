@@ -1,4 +1,4 @@
-# Telegraph Markdown Uploader
+# Markdown -> Telegraph Pipeline
 
 Upload Markdown files to Telegraph. [Here's an example](https://telegra.ph/This-Is-the-Title-01-20).
 
